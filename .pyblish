@@ -1,6 +1,5 @@
 image:
 - mottosso/maya
 
-# test
 script:
 - echo Hello World!
