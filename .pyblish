@@ -1,6 +1,7 @@
 image:
 - mottosso/maya
 
+#update
 script:
 - echo Hello from AF, failing..
 - exit 1
