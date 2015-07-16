@@ -3,3 +3,4 @@ image:
 
 script:
 - echo Hello World!
+- echo Updating!
