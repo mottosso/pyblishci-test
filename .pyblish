@@ -7,3 +7,4 @@ script:
 - echo "Sleeping for 5 seconds.."
 - sleep 5
 - echo "ok, succeeding now!"
+- python -c "print 'hello from python'"
