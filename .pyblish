@@ -2,4 +2,4 @@ image:
 - mottosso/maya
 
 script:
-- echo Hello World!
+- echo Hello from AF!
