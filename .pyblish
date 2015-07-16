@@ -2,7 +2,6 @@ image:
 - mottosso/maya
 - mottosso/maya:2015sp5
 
-# test
 script:
 - echo Running within $(readlink -f /usr/autodesk/maya/bin/mayapy)
 - echo "Sleeping for 5 seconds.."
