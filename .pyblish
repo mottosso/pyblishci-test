@@ -1,7 +1,9 @@
 image:
 - mottosso/maya
+- mottosso/maya
 
-#update
 script:
-- echo Hello from AF, failing..
+- echo "Sleeping for 5 seconds.."
+- sleep 5
+- echo "ok, failing now"
 - exit 1
