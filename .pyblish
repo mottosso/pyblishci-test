@@ -1,7 +1,6 @@
 image:
 - mottosso/maya
 - mottosso/maya
-- mottosso/maya
 
 script:
 - echo "Sleeping for 5 seconds.."
