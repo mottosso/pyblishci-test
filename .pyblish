@@ -8,3 +8,5 @@ script:
 - sleep 5
 - echo "ok, succeeding now!"
 - python -c "print 'hello from python'"
+- echo "this is the .pyblish file"
+- cat .pyblish
