@@ -2,4 +2,5 @@ image:
 - mottosso/maya
 
 script:
-- echo Hello from AF!
+- echo Hello from AF, failing..
+- exit 1
