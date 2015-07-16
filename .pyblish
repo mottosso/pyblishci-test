@@ -1,0 +1,5 @@
+image:
+- mottosso/maya
+
+script:
+- echo Hello World!
