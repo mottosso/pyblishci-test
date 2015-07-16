@@ -5,5 +5,4 @@ image:
 script:
 - echo "Sleeping for 5 seconds.."
 - sleep 5
-- echo "ok, failing now"
-- exit 1
+- echo "ok, succeeding now!"
