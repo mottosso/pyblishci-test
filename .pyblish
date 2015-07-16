@@ -1,5 +1,6 @@
 image:
 - mottosso/maya
+- mottosso/maya
 - mottosso/maya:2015sp5
 
 script:
