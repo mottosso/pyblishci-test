@@ -1,5 +1,12 @@
 image:
 - mottosso/maya
+- mottosso/maya:2015sp5
 
 script:
-- echo Hello World!
+- echo Running within $(readlink -f /usr/autodesk/maya/bin/mayapy)
+- echo "Sleeping for 5 seconds.."
+- sleep 5
+- echo "ok, succeeding now!"
+- python -c "print 'hello from python'"
+- echo "this is the .pyblish file"
+- cat .pyblish
